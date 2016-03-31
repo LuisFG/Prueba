@@ -1,2 +1,2 @@
 # Prueba
-Repositorio de aprendizaje.
+Repositorio de **aprendizaje**.
